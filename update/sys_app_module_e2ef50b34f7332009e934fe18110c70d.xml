@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Innovate">6aef50b34f7332009e934fe18110c70a</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Innovates</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_80506_innovate_innovate</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_80506_innovate.innovate_user</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-13 09:54:48</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e2ef50b34f7332009e934fe18110c70d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Innovates</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Innovate" source="x_80506_innovate">ef2e10334f7332009e934fe18110c734</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Innovate">ef2e10334f7332009e934fe18110c734</sys_scope>
+        <sys_update_name>sys_app_module_e2ef50b34f7332009e934fe18110c70d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-13 09:54:48</sys_updated_on>
+        <timeline_page/>
+        <title>Innovates</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
